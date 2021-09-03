@@ -1,5 +1,5 @@
 # CBC-MAC
-Exploiting CBC-MAC challenge on PentesterLab.
+Exploiting CBC-MAC challenge on PentesterLab, you can exploit it directly from BurpSuite Decoder.
 
 # Installation:
 ```bash
